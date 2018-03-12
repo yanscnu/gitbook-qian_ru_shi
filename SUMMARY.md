@@ -1,8 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [嵌入式](qian-ru-shi.md)
-* [智能家居平台](qian-ru-shi/zhi-neng-jia-ju-ping-tai.md)
+* [智能家居平台](zhi-neng-jia-ju-ping-tai.md)
   * [开场视频](qian-ru-shi/zhi-neng-jia-ju-ping-tai.md#开场视频)
   * [what](qian-ru-shi/zhi-neng-jia-ju-ping-tai.md#what)
     * [什么是智能家居](qian-ru-shi/zhi-neng-jia-ju-ping-tai.md#什么是智能家居)
